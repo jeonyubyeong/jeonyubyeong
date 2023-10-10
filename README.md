@@ -27,4 +27,5 @@
 
 ![jeonyubyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonyubyeong&theme=shadow_green&show_icons=true)
 
-![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk2&cache_seconds=86400&theme=shadow_blue)
+![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk&cache_seconds=86400&theme=shadow_blue)
+![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk&cache_seconds=86400&theme=shadow_blue)
