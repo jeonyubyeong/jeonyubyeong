@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-![jeonyubyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonyubyeong&theme=shadow_green&show_icons=true)
+![jeonyubyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonyubyeong&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)
 
 ![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk&cache_seconds=86400&theme=shadow_blue)
 ![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=project1&cache_seconds=86400&theme=shadow_blue)
