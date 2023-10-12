@@ -30,3 +30,4 @@
 ![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=clerk&cache_seconds=86400&theme=shadow_blue)
 ![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=project1&cache_seconds=86400&theme=shadow_blue)
 ![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=F.N.S-study-page&cache_seconds=86400&theme=shadow_blue)
+![jeonyubyeong's shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=jeonyubyeong&repo=portfolio&cache_seconds=86400&theme=shadow_blue)
