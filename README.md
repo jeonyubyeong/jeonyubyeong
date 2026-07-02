@@ -31,11 +31,11 @@
 
 <h3 align="left"> 🪄 Links 🪄 </h3>
 
-<a href="https://yubyeong.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
 <a href="https://github.com/jeonyubyeong/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-018EF5?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+<a href="https://yubyeong.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tistory-orange?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
 <a href="https://www.instagram.com/u_byeong/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
