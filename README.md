@@ -31,7 +31,7 @@
 
 <h3 align="left"> 🪄 Links 🪄 </h3>
 
-<a href="https://github.com/jeonyubyeong/portfolio">
+<a href="https://github.com/jeonyubyeong/portfolio/blob/main/Portfolio.pdf">
   <img src="https://img.shields.io/badge/Portfolio-018EF5?style=for-the-badge&logo=readme&logoColor=white">
 </a>
 <a href="https://yubyeong.tistory.com/" target="_blank">
